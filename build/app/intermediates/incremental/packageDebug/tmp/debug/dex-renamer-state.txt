@@ -1,4 +1,4 @@
-#Fri Dec 16 20:39:30 COT 2022
-base.0=/Users/dyclonius/AndroidStudioProjects/little_face/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Mon Jul 17 13:46:10 COT 2023
+base.0=D\:\\Sam\\Programacion\\Flutter\\little_face_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

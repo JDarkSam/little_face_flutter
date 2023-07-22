@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/dyclonius/AndroidStudioProjects/little_face/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml",
+            "outputFile": "D:\\Sam\\Programacion\\Flutter\\little_face_flutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-th\\values-th.xml",
             "map": [
                 {
-                    "source": "/Users/dyclonius/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-th/values-th.xml",
+                    "source": "C:\\Users\\jupon\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\values-th\\values-th.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
